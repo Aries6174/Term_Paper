@@ -1,4 +1,4 @@
-﻿//Printing Hello World
+﻿//Printing the results of basic operations.
 using System;
 
 namespace MyApplication{
