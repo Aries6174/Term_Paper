@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\Term_Paper\blocks\bin\Debug\net8.0\blocks.exe
+C:\Users\asus\Documents\Term_Paper\blocks\bin\Debug\net8.0\blocks.deps.json
+C:\Users\asus\Documents\Term_Paper\blocks\bin\Debug\net8.0\blocks.runtimeconfig.json
+C:\Users\asus\Documents\Term_Paper\blocks\bin\Debug\net8.0\blocks.dll
+C:\Users\asus\Documents\Term_Paper\blocks\bin\Debug\net8.0\blocks.pdb
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.AssemblyInfo.cs
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.sourcelink.json
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.dll
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\refint\blocks.dll
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.pdb
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\blocks.genruntimeconfig.cache
+C:\Users\asus\Documents\Term_Paper\blocks\obj\Debug\net8.0\ref\blocks.dll
