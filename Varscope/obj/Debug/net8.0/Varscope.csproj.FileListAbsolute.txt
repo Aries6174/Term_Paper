@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.AssemblyInfo.cs
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.sourcelink.json
+C:\Users\asus\Documents\Term_Paper\Varscope\bin\Debug\net8.0\Varscope.exe
+C:\Users\asus\Documents\Term_Paper\Varscope\bin\Debug\net8.0\Varscope.deps.json
+C:\Users\asus\Documents\Term_Paper\Varscope\bin\Debug\net8.0\Varscope.runtimeconfig.json
+C:\Users\asus\Documents\Term_Paper\Varscope\bin\Debug\net8.0\Varscope.dll
+C:\Users\asus\Documents\Term_Paper\Varscope\bin\Debug\net8.0\Varscope.pdb
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.dll
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\refint\Varscope.dll
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.pdb
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\Varscope.genruntimeconfig.cache
+C:\Users\asus\Documents\Term_Paper\Varscope\obj\Debug\net8.0\ref\Varscope.dll
