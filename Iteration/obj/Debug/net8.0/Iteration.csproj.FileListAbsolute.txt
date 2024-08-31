@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\Term_Paper\Iteration\bin\Debug\net8.0\Iteration.exe
+C:\Users\asus\Documents\Term_Paper\Iteration\bin\Debug\net8.0\Iteration.deps.json
+C:\Users\asus\Documents\Term_Paper\Iteration\bin\Debug\net8.0\Iteration.runtimeconfig.json
+C:\Users\asus\Documents\Term_Paper\Iteration\bin\Debug\net8.0\Iteration.dll
+C:\Users\asus\Documents\Term_Paper\Iteration\bin\Debug\net8.0\Iteration.pdb
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.AssemblyInfo.cs
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.sourcelink.json
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.dll
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\refint\Iteration.dll
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.pdb
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\Iteration.genruntimeconfig.cache
+C:\Users\asus\Documents\Term_Paper\Iteration\obj\Debug\net8.0\ref\Iteration.dll
